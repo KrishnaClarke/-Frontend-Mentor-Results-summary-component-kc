@@ -8,14 +8,14 @@
   }
 
   .main-bg {
-    @apply flex h-screen items-center justify-center;
+    @apply flex h-screen items-center justify-center perspective-1000 shadow-lg bg-slate-50;
   }
 
   .result-section {
-    @apply bg-indigo-600 float-left text-left box-content h-52 w-56 p-4;
+    @apply bg-indigo-600 float-left text-center box-content h-56 w-64 p-4 text-white transform rotate-2 perspective-1000 shadow-lg;
   }
 
   .summary-section {
-    @apply bg-white float-right box-content h-52 w-56 p-4;
+    @apply bg-white float-right box-content h-56 w-64 p-4 transform rotate-2 perspective-1000 shadow-lg;
   }
 }
