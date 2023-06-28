@@ -8,13 +8,14 @@
   }
 
   .main-bg {
+    @apply flex h-screen items-center justify-center;
   }
 
   .result-section {
-    @apply bg-indigo-600 left-3 text-left;
+    @apply bg-indigo-600 float-left text-left box-content h-52 w-56 p-4;
   }
 
   .summary-section {
-    @apply right-5 bg-white text-right;
+    @apply bg-white float-right box-content h-52 w-56 p-4;
   }
 }
