@@ -1,12 +1,5 @@
 # Frontend Mentor - Results summary component
 
-<<<<<<< HEAD
-=======
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/tailwindcss-7pjkwh)
-
-# Frontend Mentor - Results summary component
-
->>>>>>> e2100c8c44f3ed91a74117460f4ea05c2ac81d9c
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
@@ -34,15 +27,9 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## Where to find everything
 
-<<<<<<< HEAD
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
-=======
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
-
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
->>>>>>> e2100c8c44f3ed91a74117460f4ea05c2ac81d9c
 
 If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
@@ -91,20 +78,12 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 
 There are multiple places you can share your solution:
 
-<<<<<<< HEAD
 1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-=======
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
->>>>>>> e2100c8c44f3ed91a74117460f4ea05c2ac81d9c
 2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 3. Share your solution on other social channels like LinkedIn.
 4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
 
-<<<<<<< HEAD
 We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-=======
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback.
->>>>>>> e2100c8c44f3ed91a74117460f4ea05c2ac81d9c
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
 
