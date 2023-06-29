@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-
 @layer components {
+<<<<<<< HEAD
     .btn-primary {
       @apply py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-stone-900 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75;
     }
@@ -38,3 +38,21 @@
 
 
 
+=======
+  .btn-primary {
+    @apply py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-stone-900 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75;
+  }
+
+  .main-bg {
+    @apply flex h-screen items-center justify-center perspective-1000 shadow-lg bg-slate-50;
+  }
+
+  .result-section {
+    @apply bg-indigo-600 float-left text-center box-content h-56 w-64 p-4 text-white transform rotate-2 perspective-1000 shadow-lg;
+  }
+
+  .summary-section {
+    @apply bg-white float-right box-content h-56 w-64 p-4 transform rotate-2 perspective-1000 shadow-lg;
+  }
+}
+>>>>>>> e2100c8c44f3ed91a74117460f4ea05c2ac81d9c
