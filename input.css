@@ -13,11 +13,11 @@
       }
     
       .result-section {
-        @apply bg-indigo-600 float-left text-center box-content h-64 w-72 p-4 text-white;
+        @apply bg-indigo-600 float-left text-center box-content h-64 w-64 p-4 text-white;
       }
     
       .summary-section {
-        @apply bg-white float-right box-content h-64 w-72 p-4;
+        @apply bg-white float-right box-content h-56 w-64 p-4;
       }
       
   

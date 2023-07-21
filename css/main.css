@@ -566,7 +566,7 @@ video {
   float: left;
   box-sizing: content-box;
   height: 16rem;
-  width: 18rem;
+  width: 16rem;
   --tw-bg-opacity: 1;
   background-color: rgb(79 70 229 / var(--tw-bg-opacity));
   padding: 1rem;
@@ -578,8 +578,8 @@ video {
 .summary-section {
   float: right;
   box-sizing: content-box;
-  height: 16rem;
-  width: 18rem;
+  height: 14rem;
+  width: 16rem;
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
   padding: 1rem;
@@ -682,9 +682,9 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .text-5xl {
@@ -700,11 +700,6 @@ video {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
 }
 
 .font-bold {
